@@ -1,0 +1,10 @@
+{
+  "theme": "dark",
+  "fontFamily": "Inter",
+  "fontSize": 16,
+  "autoSave": true,
+  "expandSubjects": true,
+  "showWelcome": true,
+  "storageMode": "github",
+  "autoSync": true
+}
